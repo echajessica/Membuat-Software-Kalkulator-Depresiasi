@@ -1,1 +1,0 @@
-#Membuat-Software-Kalkulator-Depresiasi
